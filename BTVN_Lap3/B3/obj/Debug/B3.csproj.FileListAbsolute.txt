@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\bin\Debug\B3.exe.config
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\bin\Debug\B3.exe
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\bin\Debug\B3.pdb
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\obj\Debug\B3.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\obj\Debug\B3.Form1.resources
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\obj\Debug\B3.Properties.Resources.resources
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\obj\Debug\B3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\obj\Debug\B3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\obj\Debug\B3.exe
+C:\Users\DELL\source\repos\BTVN_Lap3\B3\obj\Debug\B3.pdb

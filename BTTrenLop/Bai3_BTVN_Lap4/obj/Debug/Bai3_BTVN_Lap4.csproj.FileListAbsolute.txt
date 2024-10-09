@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\bin\Debug\Bai3_BTVN_Lap4.exe.config
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\bin\Debug\Bai3_BTVN_Lap4.exe
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\bin\Debug\Bai3_BTVN_Lap4.pdb
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\obj\Debug\Bai3_BTVN_Lap4.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\obj\Debug\Bai3_BTVN_Lap4.Form1.resources
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\obj\Debug\Bai3_BTVN_Lap4.Properties.Resources.resources
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\obj\Debug\Bai3_BTVN_Lap4.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\obj\Debug\Bai3_BTVN_Lap4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\obj\Debug\Bai3_BTVN_Lap4.exe
+C:\Users\DELL\source\repos\BTTrenLop\Bai3_BTVN_Lap4\obj\Debug\Bai3_BTVN_Lap4.pdb

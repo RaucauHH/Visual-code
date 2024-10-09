@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\BTVN_Lap3\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\DELL\source\repos\BTVN_Lap3\SinhVien\bin\Debug\SinhVien.exe
+C:\Users\DELL\source\repos\BTVN_Lap3\SinhVien\bin\Debug\SinhVien.pdb
+C:\Users\DELL\source\repos\BTVN_Lap3\SinhVien\obj\Debug\B4_SinhVien.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BTVN_Lap3\SinhVien\obj\Debug\B4_SinhVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BTVN_Lap3\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\DELL\source\repos\BTVN_Lap3\SinhVien\obj\Debug\SinhVien.pdb

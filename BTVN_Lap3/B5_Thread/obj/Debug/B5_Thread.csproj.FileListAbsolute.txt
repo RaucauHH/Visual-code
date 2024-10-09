@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\BTVN_Lap3\B5_Thread\bin\Debug\B5_Thread.exe.config
+C:\Users\DELL\source\repos\BTVN_Lap3\B5_Thread\bin\Debug\B5_Thread.exe
+C:\Users\DELL\source\repos\BTVN_Lap3\B5_Thread\bin\Debug\B5_Thread.pdb
+C:\Users\DELL\source\repos\BTVN_Lap3\B5_Thread\obj\Debug\B5_Thread.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BTVN_Lap3\B5_Thread\obj\Debug\B5_Thread.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BTVN_Lap3\B5_Thread\obj\Debug\B5_Thread.exe
+C:\Users\DELL\source\repos\BTVN_Lap3\B5_Thread\obj\Debug\B5_Thread.pdb
