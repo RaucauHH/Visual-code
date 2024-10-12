@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Lap5\Lap5\bin\Debug\Lap5.exe.config
+C:\Users\DELL\source\repos\Lap5\Lap5\bin\Debug\Lap5.exe
+C:\Users\DELL\source\repos\Lap5\Lap5\bin\Debug\Lap5.pdb
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.Properties.Resources.resources
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.exe
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.pdb
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.Form1.resources
+C:\Users\DELL\source\repos\Lap5\Lap5\obj\Debug\Lap5.Form2.resources

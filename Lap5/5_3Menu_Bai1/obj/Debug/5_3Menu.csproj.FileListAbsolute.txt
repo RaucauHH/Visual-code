@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\bin\Debug\5_3Menu_Bai1.exe.config
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\bin\Debug\5_3Menu_Bai1.exe
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\bin\Debug\5_3Menu_Bai1.pdb
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\5_3Menu.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\_5_3Menu_Bai1.Form1.resources
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\_5_3Menu_Bai1.Formcau2.resources
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\_5_3Menu_Bai1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\5_3Menu.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\5_3Menu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\5_3Menu_Bai1.exe
+C:\Users\DELL\source\repos\Lap5\5_3Menu_Bai1\obj\Debug\5_3Menu_Bai1.pdb
