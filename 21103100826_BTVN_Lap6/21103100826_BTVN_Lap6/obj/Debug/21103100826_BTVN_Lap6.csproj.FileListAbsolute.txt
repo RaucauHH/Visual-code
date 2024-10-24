@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\bin\Debug\21103100826_BTVN_Lap6.exe.config
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\bin\Debug\21103100826_BTVN_Lap6.exe
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\bin\Debug\21103100826_BTVN_Lap6.pdb
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\21103100826_BTVN_Lap6.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6.Form1.resources
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6.Properties.Resources.resources
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\21103100826_BTVN_Lap6.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\21103100826_BTVN_Lap6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\21103100826_BTVN_Lap6.exe
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\21103100826_BTVN_Lap6.pdb
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6._21103100826_Bai1.resources
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6._21103100826_Bai2.resources
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6._21103100826_Bai3.resources
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6._21103100826_Bai4.resources
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6.Bai4_HoTro.resources
+C:\Users\DELL\source\repos\21103100826_BTVN_Lap6\21103100826_BTVN_Lap6\obj\Debug\_21103100826_BTVN_Lap6.Bai4_ThongTin.resources
