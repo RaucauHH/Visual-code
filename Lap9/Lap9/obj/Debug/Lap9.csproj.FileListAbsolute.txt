@@ -1,0 +1,10 @@
+D:\Lap9\Lap9\bin\Debug\Lap9.exe.config
+D:\Lap9\Lap9\bin\Debug\Lap9.exe
+D:\Lap9\Lap9\bin\Debug\Lap9.pdb
+D:\Lap9\Lap9\obj\Debug\Lap9.csproj.AssemblyReference.cache
+D:\Lap9\Lap9\obj\Debug\Lap9.FormKH.resources
+D:\Lap9\Lap9\obj\Debug\Lap9.Properties.Resources.resources
+D:\Lap9\Lap9\obj\Debug\Lap9.csproj.GenerateResource.cache
+D:\Lap9\Lap9\obj\Debug\Lap9.csproj.CoreCompileInputs.cache
+D:\Lap9\Lap9\obj\Debug\Lap9.exe
+D:\Lap9\Lap9\obj\Debug\Lap9.pdb
