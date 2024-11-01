@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EFC090CF-2435-4529-9F19-797A292EC56C}</ProjectGuid>
+    <ProjectGuid>{2982B894-CB72-4B4D-AA3D-E1AA14168448}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_21103100826</RootNamespace>
     <AssemblyName>21103100826</AssemblyName>
@@ -33,9 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -49,26 +47,62 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employees.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="FrmBanHang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FrmBanHang.Designer.cs">
+      <DependentUpon>FrmBanHang.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2_21103100826.cs">
+    <Compile Include="FrmKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2_21103100826.Designer.cs">
-      <DependentUpon>Form2_21103100826.cs</DependentUpon>
+    <Compile Include="FrmKhachHang.Designer.cs">
+      <DependentUpon>FrmKhachHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmMatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMatHang.Designer.cs">
+      <DependentUpon>FrmMatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQLBH_21103100826.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQLBH_21103100826.Designer.cs">
+      <DependentUpon>FrmQLBH_21103100826.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTimKiemKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTimKiemKH.Designer.cs">
+      <DependentUpon>FrmTimKiemKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTimKiemMH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTimKiemMH.Designer.cs">
+      <DependentUpon>FrmTimKiemMH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTimKiemTTBH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTimKiemTTBH.Designer.cs">
+      <DependentUpon>FrmTimKiemTTBH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KNCSDL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FrmBanHang.resx">
+      <DependentUpon>FrmBanHang.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2_21103100826.resx">
-      <DependentUpon>Form2_21103100826.cs</DependentUpon>
+    <EmbeddedResource Include="FrmKhachHang.resx">
+      <DependentUpon>FrmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMatHang.resx">
+      <DependentUpon>FrmMatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQLBH_21103100826.resx">
+      <DependentUpon>FrmQLBH_21103100826.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -78,9 +112,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -93,13 +125,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Trailblazer.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Resources\cats.jpg" />
-    <Content Include="Resources\images.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

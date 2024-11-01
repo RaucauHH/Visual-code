@@ -16,7 +16,7 @@ namespace _21103100826
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmQLBH_21103100826());
         }
     }
 }
